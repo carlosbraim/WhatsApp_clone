@@ -53,15 +53,11 @@ GitHub detalhamento de como funciona a imagem em circulo: https://github.com/hdo
                 // in the individual module build.gradle files
             }
 
-### Criar usuário dentro da plataforma:
-<img src="/WhatsApp_clone/Prints_tela/zap2.png" width="150">
+### Criar usuário e Logar na plataforma:
+<img src="/WhatsApp_clone/Prints_tela/zap2.png" width="150"> <img src="/WhatsApp_clone/Prints_tela/zap1.png" width="150">
+
 Esta etapa é utilizado o banco do FIREBASE para criar o usuário, tratativa de campos foram feitas no código em Java e funções do próprio 
-FIREBASE para validar se o usuário é valido.
-
-
-### Logar na plataforma:
-<img src="/WhatsApp_clone/Prints_tela/zap1.png" width="150">
-É realizado a validação de dados no FIREBASE, esse processo só ocorre depois de todos os dados
+FIREBASE para validar se o usuário é valido.É realizado a validação de dados no FIREBASE, esse processo só ocorre depois de todos os dados
 inseridos no App forem validado pelo aplicativo local, depois enviado para o Banco externo para comparação do mesmo tudo criptografado em base64.
 
 ### Logado:
@@ -74,8 +70,8 @@ o perfil e trocar para contatos.
 Nessa etapa podemos ver conversas e envio de imagens do celular ou da câmera do aparelho.
 
 ### Contatos e grupos:
-<img src="/WhatsApp_clone/Prints_tela/zap5.png" width="150">
-<img src="/WhatsApp_clone/Prints_tela/zap6.png" width="150">
+<img src="/WhatsApp_clone/Prints_tela/zap5.png" width="150"> <img src="/WhatsApp_clone/Prints_tela/zap6.png" width="150">
+
 O mesmo pode pesquisar novos contatos e criar grupos adicionando os participantes e nome do grupo.
 
 ### Editar o perfil:
