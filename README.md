@@ -42,7 +42,15 @@ Vou descrever algumas funções e como foi feito **mais não esqueça que o cód
             implementation 'com.miguelcatalan:materialsearchview:1.4.0'
             */
    
-GitHub detalhamento de como funciona a imagem em circulo: https://github.com/hdodenhof/CircleImageView
+#### GitHub detalhamento de como funciona a imagem em circulo:
+https://github.com/hdodenhof/CircleImageView
+
+#### GitHub pesquisa dentro do App:
+https://github.com/MiguelCatalan/MaterialSearchView
+
+#### SmartTabLayout para navegar de contatos para conversas:
+https://github.com/ogaclejapan/SmartTabLayout/
+
 
 ### Dependência  do build e do Google:
 
